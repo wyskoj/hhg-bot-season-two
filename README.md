@@ -27,7 +27,7 @@ Stuff in the code that I never really used:
 You'll often see `onGuildMessageReceived`. The term `guild` is used by the Discord API to refer to what would be called
 "servers."
 
-To complete JDA documentation is [here](https://ci.dv8tion.net/job/JDA/javadoc/).
+The complete JDA documentation is [here](https://ci.dv8tion.net/job/JDA/javadoc/).
 
 There are several main() functions in the code, allowing you to run different parts of the code when you need them.
 
